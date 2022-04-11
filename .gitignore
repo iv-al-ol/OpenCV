@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vs/OpenCV/v17/.suo
+.vs/slnx.sqlite
+.gitignore
+.vs/VSWorkspaceState.json
+.gitignore
